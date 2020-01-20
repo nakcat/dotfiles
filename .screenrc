@@ -1,0 +1,2 @@
+# .screenrc
+hardstatus alwayslastline "%{= ck}%-w%{= Bk}%n*%t%{= ck}%+w"
