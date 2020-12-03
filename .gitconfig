@@ -1,0 +1,11 @@
+[alias]
+    br = branch
+    st = status
+    co = chekcout
+    cm = commit
+    dc = duet-commit
+[merge]
+    ff = false
+[pull]
+    ff = only
+
